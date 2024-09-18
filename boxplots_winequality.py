@@ -21,3 +21,11 @@ plt.title('Boxplot of Alcohol')
 # Show the plots
 plt.tight_layout()
 plt.show()
+
+def my_function():
+    """
+    Explanation: using sns.boxplot(): We use Seaborn's boxplot() function to create the boxplots. Each plot shows the distribution of a feature, including the median (central line), quartiles (box), and potential outliers (points outside the whiskers).
+    First Boxplot: Shows the distribution of fixed acidity in the wine dataset.
+    Second Boxplot: Shows the distribution of alcohol content.
+    """
+    pass
