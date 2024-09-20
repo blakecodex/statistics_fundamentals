@@ -6,6 +6,7 @@ numpy==1.25.2
 # Statistics libraries
 scipy==1.11.2
 statsmodels==0.14.0
+researchpy==0.3.6
 
 # Machine Learning
 scikit-learn==1.3.0
