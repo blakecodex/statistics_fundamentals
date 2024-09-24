@@ -1,4 +1,4 @@
-# Descriptive Statistics Repository
+# Statistics Fundamentals Repository
 
 Welcome to the **Descriptive Statistics** repository! This repository serves as a comprehensive resource for exploring fundamental concepts in statistics, including types of data, probability, relationships, and visualization techniques. It contains a series of Jupyter Notebooks, Python scripts, and accompanying visual outputs designed to guide users through the essential building blocks of data analysis.
 
